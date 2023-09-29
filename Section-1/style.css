@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    display: flex;
+    margin: 2%;
+}
+
+.left-div {
+    margin: auto;
+}
+
+.right-div {
+    margin-right: 20%;
+}
+
+img {
+    max-height: 80vh;
+    object-fit: cover;
+    border-radius: 40px;
+    margin-right: 10%;
+}
+
+button {
+    width: 20rem;
+    margin: 5px 0;
+    padding: 10px 0;
+}
+
+input {
+    width: 19rem;
+    padding: 10px 0;
+}
+
+.remember {
+    display: flex;
+}
+
+.btn1 {
+    background-color: blueviolet;
+}
+
+.btn2 {
+    background-color: unset;
+}
